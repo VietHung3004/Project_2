@@ -39,6 +39,10 @@ model_option = st.selectbox("Chọn model dự đoán", [
     "DecisionTree", "Random Forest", "K-Nearest Neighbor", "Bayes", "XGBoost", "Logistic Regression", "SVM"
 ])
 
+
+
+
+
 if st.button("Dự đoán"):
     # Tạo DataFrame với tên đặc trưng
     X_input = pd.DataFrame({
