@@ -65,7 +65,7 @@ with col3:
 
 # === Chọn mô hình ===
 model_option = st.selectbox("🤖 Chọn mô hình dự đoán", [
-    "DecisionTree", "Random Forest", "K-Nearest Neighbor", "Bayes", "XGBoost", "Logistic Regression", "SVM"
+    "DecisionTree", "Random Forest", "K-Nearest Neighbor", "Bayes", "XGBoost"
 ])
 
 # === Dự đoán ===
