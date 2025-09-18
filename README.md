@@ -1,11 +1,15 @@
-# 🩺 Dự đoán Ung thư Phổi bằng Machine Learning
+# 🩺 Lung Cancer Prediction using Machine Learning
 
-## 📌 Giới thiệu
-Dự án này áp dụng các kỹ thuật **Machine Learning** để dự đoán khả năng mắc **ung thư phổi** dựa trên dữ liệu y tế và thói quen sinh hoạt của bệnh nhân.  
-Mục tiêu là hỗ trợ bác sĩ và bệnh nhân trong việc **phát hiện sớm** và **đưa ra quyết định điều trị kịp thời**.
+## 📌 Introduction
+This project applies **Machine Learning** techniques to predict the likelihood of **lung cancer** based on patients' medical data and lifestyle habits.  
+The goal is to assist doctors and patients in **early detection** and **making timely treatment decisions**.
 
-## 🎯 Mục tiêu
-- Thu thập và xử lý dữ liệu y tế liên quan đến ung thư phổi.
-- Xây dựng mô hình dự đoán chính xác, dễ triển khai.
-- Đánh giá hiệu suất mô hình bằng các chỉ số như Accuracy, Precision, Recall, F1-score.
-- Tạo giao diện đơn giản để người dùng nhập dữ liệu và nhận kết quả dự đoán.
+## 🎯 Objectives
+- Collect and process medical data related to lung cancer.
+- Build predictive models using Random Forest, KNN, XGBoost, etc.
+- Evaluate model performance using metrics such as Accuracy, Precision, Recall, and F1-score.
+- Create a simple interface for users to input data and receive prediction results.
+
+## Demo
+![Demo](https://github.com/VietHung3004/Project_2/blob/main/Screenshot%202025-09-18%20142232.png)
+![Demo](https://github.com/VietHung3004/Project_2/blob/main/Screenshot%202025-09-18%20142301.png)
